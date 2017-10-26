@@ -42,18 +42,18 @@
     "blessed": "^0.1.81",
     "colors": "^1.1.2",
     "ent": "^2.2.0",
-    "google": "^1.4.0",
+    "google": "^2.0.0",
     "keypress": "^0.2.1",
     "lodash": "^4.3.0",
-    "marked": "0.3.5",
-    "marked-terminal": "^1.6.1",
+    "marked": "0.3.6",
+    "marked-terminal": "^2.0.0",
     "nconf": "^0.8.4",
     "npm-latest": "^1.0.1",
     "openurl": "^1.1.1",
     "request": "^2.69.0",
-    "semver": "5.1.0",
+    "semver": "^5.4.0",
     "simple-spinner": "0.0.5",
-    "yargs": "^4.1.0"
+    "yargs": "^10.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
